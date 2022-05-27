@@ -1,0 +1,19 @@
+{
+  "name": "leetcode-solution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Isormophic-String.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BuiDatHust/Leetcode-Solution.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BuiDatHust/Leetcode-Solution/issues"
+  },
+  "homepage": "https://github.com/BuiDatHust/Leetcode-Solution#readme"
+}
